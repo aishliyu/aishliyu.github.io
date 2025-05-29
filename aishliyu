@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aliyu & Aisha 💖</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f9f2f9;
+      text-align: center;
+      padding-top: 100px;
+      color: #5e005e;
+    }
+    h1 {
+      font-size: 3em;
+    }
+    p {
+      font-size: 1.2em;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>𝒜𝓁𝒾𝓎𝒶𝒾𝓈𝒽 💕</h1>
+  <p>This is a love-inspired page for Aliyu & Aisha.</p>
+  <p>Contact: 07037747428 | aliyuabdulsalam036@gmail.com</p>
+</body>
+</html>
